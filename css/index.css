@@ -41,8 +41,10 @@ a::before{
     box-shadow: 5px 5px 0 #000;
     padding: 18px 20px;
     margin-right: 0;
+    transition: transform 2s linear;
 } 
 
 #button:hover{
     background-color: black;
+    transform: scale(1.08);
 }
