@@ -6,11 +6,6 @@ header {
     padding: 10px 20px;
 }
 
-img {
-    width: 60px;
-    height: 60px;
-}
-
 nav { 
     text-align: right;
 }
@@ -26,50 +21,12 @@ a {
     margin-right: 30px;
 }
 
-
-section{
-    background-color: #3A4042;
-    width: 627px;
-    height: 184px;
-    margin: 100px;
-    box-shadow: 5px 5px 0 #000;
-}
-
-div {
-    display: inline-block;
-    align-items: center;
-    padding-left: 50px;
-}
-
-
-h1 {
-    color: #DB4A2B;
-    text-shadow: 4px 4px 0px #000;
-
-    font-family: "Press Start 2P";
-    font-size: 40px;
-    font-weight: 400px;
-    line-height: normal;   
-}
-
-h2{
-    color: #FFF;
-    text-shadow: 4px 4px 0px #000;
-
-    font-family: "Press Start 2P";
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-}
-
-a::before{
+a::before {
     content: ""; 
     background-color: #DB4A2B;
     width: 10px;
     height: 10px;
     margin-right: 10px;
-
 }
 
 #button {
@@ -81,15 +38,7 @@ a::before{
     transition: transform 2s linear;
 } 
 
-#button:hover{
+#button:hover {
     background-color: black;
     transform: scale(1.08);
-}
-
-.element {
-    background-color: #3A4042;
-    width: 627px;
-    height: 184px;
-    flex-shrink: 0;
-    margin: 30x;
 }
