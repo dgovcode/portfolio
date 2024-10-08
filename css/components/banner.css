@@ -9,7 +9,7 @@
     padding-left: 1050px;
 }
 
-.banner .wrapper {
+.banner .wrapper-banner {
     display: flex;
     flex-direction: column;
 }
