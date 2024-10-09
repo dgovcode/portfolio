@@ -1,0 +1,12 @@
+.barra {
+    width: 350px;
+    height: 40px;
+    background-color: #FFF;
+    border: 5px solid #000;
+}
+
+.barra .progress-bar {
+    height: 100%;
+    background-color: #E4E2DD;
+    width: 75%;
+}
