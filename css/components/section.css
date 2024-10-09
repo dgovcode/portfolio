@@ -1,0 +1,8 @@
+.section {
+    padding-top: 50px;
+    padding-bottom: 100px ;
+    box-sizing: border-box;
+    background-color: #DB4A2B;
+    height: 940px;
+    border-bottom: 10px solid #000;
+}

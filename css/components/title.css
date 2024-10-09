@@ -1,4 +1,4 @@
-.title {
+.main-title {
     padding-left: 20px;
     font-family: "Poppins",sans-serif;
     font-size: 60px;
@@ -13,4 +13,9 @@
     font-size: 50px;
     color: #FFF;
     text-shadow: 5px 1px 0px rgba(0, 0, 0, 0.25);
+}
+
+.title {
+    margin-bottom: 20px;
+    margin-right: 25px;
 }
