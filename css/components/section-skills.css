@@ -1,0 +1,13 @@
+.section-skills {
+    align-items: center;
+    padding-top: 50px;
+    background-color: #DB4A2B;
+    height: 940px;
+    border-bottom: 10px solid #FFF;
+}
+
+.section-skills .main-title {
+    margin-bottom: 100px;
+}
+
+

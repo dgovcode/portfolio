@@ -1,4 +1,4 @@
-.main-title {
+.title-name {
     padding-left: 20px;
     font-family: "Poppins",sans-serif;
     font-size: 60px;
@@ -6,7 +6,7 @@
     text-shadow: 5px 1px 0px rgba(0, 0, 0, 0.25);
 }
 
-.title-skills {
+.main-title {
     padding-top: 50px;
     text-align: center;
     font-family: "Press Start 2P",sans-serif;
@@ -16,6 +16,5 @@
 }
 
 .title {
-    margin-bottom: 20px;
-    margin-right: 25px;
+    text-shadow: 5px 1px 0px rgba(0, 0, 0, 0.25);
 }
