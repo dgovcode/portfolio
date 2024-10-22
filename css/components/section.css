@@ -11,6 +11,7 @@
 }
 
 .section.-bgBlack {
+    height: 650px;
     background-color: #000;
     border-bottom: 10px solid #DB4A2B;
 }
