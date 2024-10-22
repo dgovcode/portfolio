@@ -1,4 +1,4 @@
-.section-skills {
+.section {
     align-items: center;
     padding-top: 50px;
     background-color: #DB4A2B;
@@ -6,8 +6,11 @@
     border-bottom: 10px solid #FFF;
 }
 
-.section-skills .main-title {
+.section .main-title {
     margin-bottom: 100px;
 }
 
-
+.section.-bgBlack {
+    background-color: #000;
+    border-bottom: 10px solid #DB4A2B;
+}
