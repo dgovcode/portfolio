@@ -1,4 +1,4 @@
-.section {
+.main-section {
     align-items: center;
     padding-top: 50px;
     background-color: #DB4A2B;
@@ -6,11 +6,11 @@
     border-bottom: 10px solid #FFF;
 }
 
-.section .main-title {
+.main-section .main-title {
     margin-bottom: 100px;
 }
 
-.section.-bgBlack {
+.main-section.-bgBlack {
     height: 650px;
     background-color: #000;
     border-bottom: 10px solid #DB4A2B;
