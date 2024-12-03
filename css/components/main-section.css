@@ -15,3 +15,15 @@
     background-color: #000;
     border-bottom: 10px solid #DB4A2B;
 }
+
+.main-section.-bgCream {
+    height: 800px;
+    background-color: #E4E2DD;
+    border-bottom: 10px solid #000;
+}
+
+.main-section.-bgDark {
+    height: 800px;
+    background-color: #171810;
+    border: none;
+}
